@@ -1,0 +1,1 @@
+print('Układ okresowy pierwiastków')
